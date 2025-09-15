@@ -2,7 +2,7 @@
 Dimensionality Reduction on Wine DataSet
  PCA Wine Classifier App
 This Streamlit app demonstrates the application of Principal Component Analysis (PCA) for dimensionality reduction on the Wine dataset.
-To See the Working Click on this Link :  https://pca-winedatasetgit-lfndzk9nhxp8aga84xy6gp.streamlit.app/
+To See the Working Click on this Link : https://pca-winedataset-main-92k4btfv8cfhbfpvlcwmam.streamlit.app/
 
 📊 What it Does
 Takes 13 chemical features of wine as input
